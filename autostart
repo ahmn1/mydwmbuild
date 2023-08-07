@@ -1,0 +1,5 @@
+#!/bin/bash
+
+feh --bg-fill /home/aashman/Wallpapers/wallhaven-q2zpeq.jpg
+picom --experimental-backends &
+xautolock -time 5 -locker soja
